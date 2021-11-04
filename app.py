@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from tika import parser
 from phrases import *
 
